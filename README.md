@@ -66,13 +66,13 @@ I specialize in delivering **complete solutions for small businesses and institu
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
   <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored-dark.svg" width="36" height="36" alt="GitHub" />
   </a>
   <a href="https://www.cloudflare.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cloudflare-colored.svg" width="36" height="36" alt="Cloudflare" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cloudflare-colored-dark.svg" width="36" height="36" alt="Cloudflare" />
   </a>
   <a href="https://unity.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg" width="36" height="36" alt="Unity" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored-dark.svg" width="36" height="36" alt="Unity" />
   </a>
 </p>
 
