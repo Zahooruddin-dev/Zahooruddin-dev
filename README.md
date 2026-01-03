@@ -21,7 +21,7 @@ I specialize in delivering **complete solutions for small businesses and institu
   - **mzkhan886@gmail.com**
 - 🧠 Currently deepening skills in **Node.js, PostgreSQL, Sequelize, Express**
 - 🤝 Open to **full-time, contract, and remote roles**
-- 💬 Strong domain knowledge in **Formula 1 (F1)** and motorsport data/technology
+- 💬 Strong domain knowledge in **Formula 1 (F1)** and motorsport data/technology, EdTech
 - ⚡ Fun fact: Tyre pressure and temperature sensors can be used to infer vehicle load distribution under controlled conditions
 
 ---
