@@ -1,5 +1,5 @@
 Hi 👋  
-My name is Zahooruddin Nizamani (Mizuka)
+My name is Muhammad Zahooruddin Nizamani (Mizuka)
 ======================================
 
 Full-Stack Software Engineer | JavaScript | React | Node.js | Cloud Solutions
